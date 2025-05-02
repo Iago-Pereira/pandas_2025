@@ -58,4 +58,3 @@ colunas
 
 df = df[colunas]
 df.head()
-# %%
