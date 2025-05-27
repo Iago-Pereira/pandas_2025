@@ -7,6 +7,7 @@ Os exemplos foram construídos utilizando dados reais e abordam desde operaçõe
 ## Dados
 
 Utilizei dados reais para o desenvolvimento desse projeto. Acesse os [dados aqui](https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system).
+
 Salve os dados na pasta "data" do repositório.
 
 ## Tópicos Demonstrados
